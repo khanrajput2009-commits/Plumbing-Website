@@ -4,7 +4,7 @@ A modern, clean, and responsive landing page for plumbing services built using H
 
 ## 🚀 Live Demo
 Check out the live website here: 
-[https://khanrajput2009-commits.github.io/neels-plumbing-landing/](https://khanrajput2009-commits.github.io/neels-plumbing-landing/)
+[https://khanrajput2009-commits.github.io/Plumbing-Website/](https://khanrajput2009-commits.github.io/Plumbing-Website/)
 
 ---
 
@@ -16,7 +16,7 @@ Check out the live website here:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️️ Technologies Used
 * **HTML5** - Page structure and semantic content
 * **CSS3** - Custom styling and responsive design
 * **JavaScript** - Interactive components and smooth scrolling
